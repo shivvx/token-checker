@@ -1,4 +1,4 @@
-# Ultimate Token Checker
+# Ultimate Token Checker 🔐
 
 A powerful and fast Discord token checker tool designed for educational and development purposes. This tool validates Discord tokens, checks Nitro status, billing information, and locked status, all while supporting proxy usage and multithreading for high performance.
 
